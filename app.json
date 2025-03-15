@@ -3,6 +3,7 @@
     "name": "testapp",
     "slug": "testapp",
     "version": "1.0.0",
+    "main": "node_modules/expo/AppEntrey.js",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
